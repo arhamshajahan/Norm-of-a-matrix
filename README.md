@@ -48,16 +48,18 @@ print(Norm_of_matrix)
 
 ## Output:
 ### 1-Norm of a Matrix
-![norm1](https://github.com/arhamshajahan/Norm-of-a-matrix/assets/127313881/ee12097c-3ad9-43a5-b0a5-a150ed92f1e6)
 
+![py1](https://github.com/arhamshajahan/Norm-of-a-matrix/assets/127313881/7759c5d4-55db-4455-901a-de2a783b49eb)
 
 ### 2-Norm of a Matrix
-![norm2](https://github.com/arhamshajahan/Norm-of-a-matrix/assets/127313881/09c61c24-a966-4f7a-a6cc-5a067246d644)
+
+![Screenshot 2023-06-04 094844](https://github.com/arhamshajahan/Norm-of-a-matrix/assets/127313881/b62f8ca6-49d1-4935-8189-7f8d8a022ae9)
 
 
 ### Infinity Norm of a Matrix
 
-![norm3](https://github.com/arhamshajahan/Norm-of-a-matrix/assets/127313881/5261de77-bd61-4265-993d-be31ea0f1fc7)
+
+![Screenshot 2023-06-04 094928](https://github.com/arhamshajahan/Norm-of-a-matrix/assets/127313881/be382084-115c-4d43-a885-5f2628292931)
 
 ## Result
 Thus the program for 1-norm, 2-norm and Infinity norm of a matrix are written and verified.
